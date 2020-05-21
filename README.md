@@ -31,7 +31,7 @@
 
 因为你需要保证当你在“搬砖”的时候，你所选交易标的的价格差异能够覆盖你的交易成本，你才能够保持盈利。
 
-<img src="/Users/arthur/www/academy/inter-exchange-spread/img/spread_huobi.jpg" style="zoom:60%;" />
+<img src="./img/spread_huobi.jpg" style="zoom:60%;" />
 
 上图是KuCoin交易所与huobi交易所周BTC-USDT交易对的价差图，可以看到价差大的地方还是比较多的，差值也基本有5USDT左右。
 
