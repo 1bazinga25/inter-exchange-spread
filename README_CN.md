@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Kucoin-academy/inter-exchange-spread.svg?label=Fork&style=flat-square)](https://github.com/Kucoin-academy/inter-exchange-spread)
 [![GitHub issues](https://img.shields.io/github/issues/Kucoin-academy/inter-exchange-spread.svg?label=Issue&style=flat-square)](https://github.com/Kucoin-academy/inter-exchange-spread/issues)
 
-[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README.md)
+[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README_EN.md)
 [![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
 
 ## 策略描述
